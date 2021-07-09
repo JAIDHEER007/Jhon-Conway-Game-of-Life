@@ -9,3 +9,6 @@
 * Create a online simulator and host it in this Repo 
 ---
 [![C++ Output](https://img.youtube.com/vi/OiNSMUJt0z4/maxresdefault.jpg)](https://youtu.be/OiNSMUJt0z4)
+---
+[![Basic Approach Output](https://img.youtube.com/vi/ZJ6e_cbCp6c/maxresdefault.jpg)](https://youtu.be/ZJ6e_cbCp6c)
+
