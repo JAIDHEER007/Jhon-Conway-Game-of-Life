@@ -5,7 +5,7 @@
 ## Tasks to be done
 * <strike>Create C++ program to implement GOL as 2D Array</strike>
 * Python Implementation
-* Create a GIF or Vedio using PIL library in Python
+* Create a GIF or Vedio using PIL/Matplotlib/OpenCV library in Python
 * Create GUI using Python or Java or JS
 * Create a VBS script to simulate GOL in excel
 * Create a online simulator and host it in this Repo 
