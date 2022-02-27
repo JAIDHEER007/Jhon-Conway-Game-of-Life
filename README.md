@@ -10,9 +10,13 @@
 * <strike>Create C++ program to implement GOL as 2D Array</strike>
 * <strike>Python Implementation</strike>
 * <strike>Create a GIF or Vedio using PIL/Matplotlib/OpenCV library in Python</strike>
-* Create GUI using Python or Java or JS
-* Create a VBS script to simulate GOL in excel
-* Create a online simulator and host it in this Repo 
+* Store the info in JSON format 
+* Make the program to run from intermediate generation rather than start provided the CSV file
+* Explore the World of Multiprocessing and Multithreading
+* Save to drive / YT
+* Better algorithm
+* Make use of GPU
+* Add ML abilities 
 ---
 [![C++ Output](https://img.youtube.com/vi/OiNSMUJt0z4/maxresdefault.jpg)](https://youtu.be/OiNSMUJt0z4)
 ---
