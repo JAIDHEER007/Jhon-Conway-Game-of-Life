@@ -34,7 +34,7 @@ function draw() {
       if (grid[i][j] == 1) {
         fill(255);
         stroke(0);
-        rect(x, y, resolution - 1, resolution - 1);
+        rect(x, y, resolution, resolution);
       }
     }
   }
